@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PowerHub_libs")(type "KiCad")(uri "${KIPRJMOD}/libs/PowerHub_libs.pretty")(options "")(descr ""))
+)
