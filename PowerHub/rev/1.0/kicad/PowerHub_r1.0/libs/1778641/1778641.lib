@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1778641
+#/298259/565682/2.50/4/2/Connector
+DEF 1778641 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1778641" 650 200 50 H V L CNN
+F2 "SHDRRA4W60P0X250_1X4_1170X750X510P" 650 100 50 H I L CNN
+F3 "http://www.phoenixcontact.com/de/produkte/1778641/pdf" 650 0 50 H I L CNN
+F4 "PCB header, nominal cross section: 0.5 mm?, color: black, nominal current: 6 A, rated voltage (III/2): 160 V, contact surface: Tin, type of contact: Male connector, Number of potentials: 4, Number of rows: 1, Number of positions per row: 4, number of connections: 4, product range: PTSM 0,5/..-HH-THR, pitch: 2.5 mm, mounting: THR soldering, pin layout: Linear pinning, solder pin [P]: 2.1 mm, Stecksystem: COMBICON COMPACT PTSM, Locking: without, type of packaging: 32 mm wide tape" 650 -100 50 H I L CNN "Description"
+F5 "5.1" 650 -200 50 H I L CNN "Height"
+F6 "Phoenix Contact" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "1778641" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "651-1778641" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1778641?qs=i0qWf6NAoDs%252BwkQoFV1ycQ%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "1778641" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/1778641/phoenix-contact?region=nac" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

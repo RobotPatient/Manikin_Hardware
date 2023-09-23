@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ24171RGYR
+D JEITA Compliant Stand-Alone Switch-Mode Li-Ion and Li-Polymer Battery Charger
+K
+F http://www.ti.com/lit/ds/slusaf2c/slusaf2c.pdf
+$ENDCMP
+#
+#End Doc Library

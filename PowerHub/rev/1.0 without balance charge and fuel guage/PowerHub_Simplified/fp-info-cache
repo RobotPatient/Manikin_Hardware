@@ -1,4 +1,4 @@
-21934541391311201
+21939627865575305
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80423,12 +80423,33 @@ Potentiometer vertical Vishay T73YP
 3
 3
 PowerHub_libs
+1814773
+1814773
+Connector
+0
+2
+2
+PowerHub_libs
+1814809
+1814809
+Connector
+0
+5
+5
+PowerHub_libs
 RGY_R-PVQFN-N24_
 RGY (R-PVQFN-N24)
 Integrated Circuit
 0
 25
 25
+PowerHub_libs
+SHDRRA4W60P0X250_1X4_1170X750X510P
+1778641
+Connector
+0
+4
+4
 PowerHub_libs
 SOP50P490X110-10N
 10-Lead VSSOP

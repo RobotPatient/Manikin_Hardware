@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PowerHub_libs")(type "KiCad")(uri "/home/victor/Projects/babysim/Manikin_Hardware/PowerHub/rev/1.0/kicad/PowerHub_r1.0/libs/PowerHub_libs.kicad_sym")(options "")(descr ""))
+)
